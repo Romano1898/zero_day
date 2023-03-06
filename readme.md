@@ -1,1 +1,0 @@
-This is my first project using Vagrant to create and edit repos.
